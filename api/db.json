@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "jaja",
+      "occupation": "jaja",
+      "weapon": "risas",
+      "id": 4
+    },
+    {
+      "name": "Eloi",
+      "occupation": "dsad",
+      "cartoon": true,
+      "weapon": "pc",
+      "id": 5
+    },
+    {
+      "name": "Eloi",
+      "occupation": "Maquetadora",
+      "cartoon": false,
+      "weapon": "pc",
+      "id": 6
+    },
+    {
+      "name": "Eloi",
+      "occupation": "Humorista",
+      "cartoon": true,
+      "weapon": "pc",
+      "id": 7
+    },
+    {
+      "name": "Eloi2",
+      "occupation": "Humorista",
+      "cartoon": false,
+      "weapon": "pc",
+      "id": 8
+    },
+    {
+      "name": "Yabel",
+      "occupation": "biciclista",
+      "cartoon": false,
+      "weapon": "bici",
+      "id": 9
+    },
+    {
+      "personatgeActualitzat": {
+        "name": "Josepssssss",
+        "Occupation": "Jajas",
+        "Weapon": "Llàpis",
+        "Cartoon": "on"
+      },
+      "id": 10
+    }
+  ]
+}
